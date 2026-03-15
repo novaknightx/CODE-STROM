@@ -1,5 +1,4 @@
 # CODE-STROM
-Mitra AI is a hyperlocal AI assistant designed to support farmers by providing essential agricultural information in one platform. It offers crop price updates, weather forecasts, government scheme guidance, crop disease detection, and farming advisory. The goal is to make agricultural knowledge easily accessible and help farmers in framing.
 # Mitra AI – Hyperlocal AI Assistant for Farmers
 
 Mitra AI is an AI-powered assistant designed to help farmers access important agricultural information in a simple and centralized platform.
